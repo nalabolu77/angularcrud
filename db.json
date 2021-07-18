@@ -1,0 +1,37 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Madhu",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "email": "madhureddys77@gmail.com",
+      "dateOfBirth": "11/11/1988",
+      "department": "1",
+      "isActive": true,
+      "photoPath": "assets/images/madhu.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mohan",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "email": "mohanreddys77@gmail.com",
+      "dateOfBirth": "11/11/1988",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/mohan.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mounika",
+      "gender": "Female",
+      "contactPreference": "Email",
+      "email": "mnmounika1117@gmail.com",
+      "dateOfBirth": "07/11/1994",
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/mounika.jpg"
+    }
+  ]
+}

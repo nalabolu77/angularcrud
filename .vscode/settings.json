@@ -1,0 +1,7 @@
+{
+    "npm.exclude": "",
+    "emmet.excludeLanguages": [
+    
+        "markdown"
+    ]
+}
